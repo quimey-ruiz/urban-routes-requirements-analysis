@@ -1,0 +1,7 @@
+El proyecto se centró en el análisis y descomposición de los requisitos de la funcionalidad “Agregar licencia de conducir” 
+dentro de la aplicación Urban Routes. A través del uso de un mapa mental, una tabla estructurada y técnicas de diseño de pruebas,
+se logró transformar requisitos generales en escenarios de prueba concretos.
+Durante el análisis se identificaron ambigüedades en aspectos como validaciones de formato.
+Esto permitió anticipar posibles defectos antes de la etapa de ejecución de pruebas.
+El proyecto reforzó la importancia de realizar un análisis detallado de requisitos como base para garantizar una cobertura 
+de pruebas efectiva y reducir riesgos funcionales.
